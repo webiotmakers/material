@@ -46,6 +46,8 @@
 
 協力 : [akita11](https://twitter.com/akita11)
 
+協力 : [うこ](https://twitter.com/ukokq)
+
 ## ライセンス
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
